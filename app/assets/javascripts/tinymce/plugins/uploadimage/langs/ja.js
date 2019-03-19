@@ -1,11 +1,11 @@
 tinyMCE.addI18n('en', {
-  'Insert an image from your computer': 'Insert an image from your computer',
-  'Insert image': 'Insert image',
-  'Choose an image': "Choose an image",
-  'You must choose a file': "You must choose a file",
-  'Got a bad response from the server': "Got a bad response from the server",
-  "Didn't get a response from the server": "Didn't get a response from the server",
-  'Insert': "Insert",
-  'Cancel': "Cancel",
-  'Image description': "Image description",
+    'Insert an image from your computer': '画像を選択してください',
+    'Insert image': '画像挿入',
+    'Choose an image': "画像選択",
+    'You must choose a file': "画像を選択する必要があります",
+    'Got a bad response from the server': "サーバーエラー",
+    "Didn't get a response from the server": "サーバー応答なし",
+    'Insert': "選択",
+    'Cancel': "キャンセル",
+    'Image description': "説明文"
 });
