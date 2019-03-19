@@ -1,4 +1,4 @@
-tinyMCE.addI18n('en', {
+tinyMCE.addI18n('ja', {
     'Insert an image from your computer': '画像を選択してください',
     'Insert image': '画像挿入',
     'Choose an image': "画像選択",
